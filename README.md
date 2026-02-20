@@ -60,3 +60,9 @@ This project transformed Airbnb listing data into insights on pricing trends, de
 
 Using Python for data preparation and exploratory analysis, the project supports data-driven pricing strategies and informed decision-making for hosts and stakeholders.
 ## Dataset Access
+The dataset used for this analysis is available in this repository for transparency and reproducibility.
+## Author
+Zuera Alabi
+Data Analyst | Python | Excel | Power BI | SQL
+
+Passionate about transforming raw data into actionable insights that support data-driven decision-making.
