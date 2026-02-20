@@ -59,3 +59,4 @@ Many listings were not available year-round, indicating varying occupancy levels
 This project transformed Airbnb listing data into insights on pricing trends, demand patterns, and listing performance. The analysis highlighted key factors influencing market dynamics, including neighborhood location, room type, host activity, and customer reviews.
 
 Using Python for data preparation and exploratory analysis, the project supports data-driven pricing strategies and informed decision-making for hosts and stakeholders.
+## Dataset Access
