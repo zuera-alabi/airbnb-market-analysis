@@ -50,11 +50,9 @@ Key areas of analysis included:
 4. Availability patterns indicated that many listings were not available year-round, suggesting varying occupancy rates.
 5. Many listings were not available year-round, indicating varying occupancy levels.
 ## Visualization
+### Demand by Neighbourhood Group
 
-
-
-<img width="859" height="549" alt="demand_by_neighbourhood_group" src="https://github.com/user-attachments/assets/7c074e34-4deb-48f1-9fab-5c8cb9e956ad" />
-
+![Demand by Neighbourhood Group](demand_by_neighbourhood_group.png)
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
 - Hosts should set competitive prices based on neighborhood demand and location advantages.
