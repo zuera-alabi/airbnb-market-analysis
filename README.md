@@ -52,6 +52,9 @@ Key areas of analysis included:
 ## Visualization
 
 
+
+<img width="859" height="549" alt="demand_by_neighbourhood_group" src="https://github.com/user-attachments/assets/7c074e34-4deb-48f1-9fab-5c8cb9e956ad" />
+
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
 - Hosts should set competitive prices based on neighborhood demand and location advantages.
