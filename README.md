@@ -72,7 +72,6 @@ This chart shows that entire homes/apartments are significantly more expensive t
 This chart highlights luxury neighborhoods with the highest listing prices, showing that areas like Sea Gate and Tribeca have significantly higher average prices compared to other locations.
 
 ## Business Recommendations
-Many listings were not available year-round, indicating varying occupancy levels.
 - Hosts should set competitive prices based on neighborhood demand and location advantages.
 - Increasing listing availability can improve booking opportunities and revenue potential.
 - Encouraging customer reviews can enhance listing visibility and attract more guests.
@@ -84,6 +83,7 @@ Using Python for data preparation and exploratory analysis, the project supports
 ## Dataset Access
 The dataset used for this analysis is available in this repository for transparency and reproducibility.
 ## Author
+
 Zuera Alabi
 Data Analyst | Python | Excel | Power BI | SQL
 
