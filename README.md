@@ -16,6 +16,7 @@ The analysis focused on answering the following key business questions:
 - Python – Data cleaning, transformation, and exploratory analysis
 - Pandas – Data manipulation and preprocessing
 - Matplotlib & Seaborn – Data visualization and trend analysis
+- Jupyter Notebook – Interactive data analysis environment
 
 ## Data Description
 The dataset contains Airbnb listing records across different neighborhoods, providing detailed information about listing characteristics, pricing, availability, and host activity. It helps analyze market trends, pricing behavior, and listing performance patterns.
@@ -28,7 +29,7 @@ Key variables include:
 - Number of Reviews – Total customer reviews
 - Host Activity – Level of host engagement
 
-## Data Cleaning
+## Data Preparation
 A structured workflow was followed to prepare the dataset for accurate and reliable analysis:
 - Handled missing and invalid values
 - Removed duplicate records
@@ -47,22 +48,28 @@ Key areas of analysis included:
 1. Prices varied widely across neighborhoods, with high-demand areas having the highest averages.
 2. Entire homes were generally more expensive than private or shared rooms.
 3. Listings with more reviews tended to have higher demand and popularity.
-4. Availability patterns indicated that many listings were not available year-round, suggesting varying occupancy rates.
-5. Many listings were not available year-round, indicating varying occupancy levels.
-## Visualization
+4. Many listings were not available year-round, indicating varying occupancy levels.
+## Visualizations
 
 ## Demand by Neighbourhood Group
 
 ![Demand by Neighbourhood Group](demand_by_neighbourhood_group.png)
+
+This chart shows that Brooklyn and Manhattan have the highest listing demand, while Bronx and Staten Island have significantly lower demand levels.
 
 
 ## Room Type Price Comparison
 
 ## ![Room Type Price Comparison](room_type_by_price.png)
 
+This chart shows that entire homes/apartments are significantly more expensive than private and shared rooms, indicating a strong pricing difference based on accommodation type.
+
+
 ## Luxury Neighbourhood Prices
 
 ![Luxury Neighbourhood Prices](luxury_neighbourhood_prices.png)
+
+This chart highlights luxury neighborhoods with the highest listing prices, showing that areas like Sea Gate and Tribeca have significantly higher average prices compared to other locations.
 
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
