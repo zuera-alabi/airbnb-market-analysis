@@ -50,8 +50,15 @@ Key areas of analysis included:
 4. Availability patterns indicated that many listings were not available year-round, suggesting varying occupancy rates.
 5. Many listings were not available year-round, indicating varying occupancy levels.
 ## Visualization
-### Demand by Neighbourhood Group
+
+## Demand by Neighbourhood Group
+
 ![Demand by Neighbourhood Group](demand_by_neighbourhood_group.png)
+
+
+## Room Type Price Comparison
+
+## ![Room Type Price Comparison](room_type_by_price.png)
 
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
