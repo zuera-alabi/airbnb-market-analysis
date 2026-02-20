@@ -60,7 +60,7 @@ Key areas of analysis included:
 
 ## ![Room Type Price Comparison](room_type_by_price.png)
 
-### Luxury Neighbourhood Prices
+## Luxury Neighbourhood Prices
 
 ![Luxury Neighbourhood Prices](luxury_neighbourhood_prices.png)
 
