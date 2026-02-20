@@ -60,6 +60,10 @@ Key areas of analysis included:
 
 ## ![Room Type Price Comparison](room_type_by_price.png)
 
+### Luxury Neighbourhood Prices
+
+![Luxury Neighbourhood Prices](luxury_neighbourhood_prices.png)
+
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
 - Hosts should set competitive prices based on neighborhood demand and location advantages.
