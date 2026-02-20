@@ -51,8 +51,8 @@ Key areas of analysis included:
 5. Many listings were not available year-round, indicating varying occupancy levels.
 ## Visualization
 ### Demand by Neighbourhood Group
-
 ![Demand by Neighbourhood Group](demand_by_neighbourhood_group.png)
+
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
 - Hosts should set competitive prices based on neighborhood demand and location advantages.
