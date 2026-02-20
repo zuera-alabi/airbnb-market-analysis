@@ -27,3 +27,5 @@ Key variables include:
 - Availability – Number of days available per year
 - Number of Reviews – Total customer reviews
 - Host Activity – Level of host engagement
+
+## Data Cleaning
