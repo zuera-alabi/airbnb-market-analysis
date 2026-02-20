@@ -49,6 +49,9 @@ Key areas of analysis included:
 3. Listings with more reviews tended to have higher demand and popularity.
 4. Availability patterns indicated that many listings were not available year-round, suggesting varying occupancy rates.
 5. Many listings were not available year-round, indicating varying occupancy levels.
+## Visualization
+
+
 ## Business Recommendations
 Many listings were not available year-round, indicating varying occupancy levels.
 - Hosts should set competitive prices based on neighborhood demand and location advantages.
@@ -66,3 +69,4 @@ Zuera Alabi
 Data Analyst | Python | Excel | Power BI | SQL
 
 Passionate about transforming raw data into actionable insights that support data-driven decision-making.
+
